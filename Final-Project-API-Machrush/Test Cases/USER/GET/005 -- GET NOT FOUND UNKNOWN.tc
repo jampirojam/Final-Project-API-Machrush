@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>005 -- GET NOT FOUND UNKNOWN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bd02c9c5-c484-4af2-b6b9-1b15a33b4dc2</testCaseGuid>
+</TestCaseEntity>

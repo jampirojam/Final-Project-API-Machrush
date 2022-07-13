@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>006 -- GET NOT FOUND USER</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>16c735da-32c6-432b-a261-e2b629a6a45c</testCaseGuid>
+</TestCaseEntity>
